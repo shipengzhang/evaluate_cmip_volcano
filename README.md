@@ -1,2 +1,2 @@
 # evaluate_cmip_volcano
-scripts to evaluate CMIP volcanic forcing and emission datasets
+This repository contains scripts for evaluating volcanic foring and emission data sets that have been shared by CMIP7 Foricing Task Team data providers.
